@@ -10,17 +10,12 @@ It acts like bookmark save.
 - Write url and then save it, or you can use save to save a link on you current window.
 - Delete all link as easy as double click the delete button
 
-### Supporting Scrimba
+### Scrimba Project
 
 Since 2017, Scrimba have created over 20 free courses on Scrimba, and they're going to
 continue launching free courses. But to pay their bills, they have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+in a while. 
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
+And this project is part of [Scrimba Learn Javascript for free](https://scrimba.com/learn/learnjavascript).
 
 Happy Coding!
